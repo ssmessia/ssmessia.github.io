@@ -1,4 +1,4 @@
-# NW FL COVID Tracking Web Page
+<p style="text-align: center;">#NW FL COVID Tracking Web Page</p>
 
 # **Total Cases**
 
