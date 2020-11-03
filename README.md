@@ -2,7 +2,7 @@
   
 NW FL COVID Tracking Web Page
 </h1></div>
-<iframe width="257" height="50" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=324474714&amp;format=interactive"></iframe>
+<p align="right"><iframe width="257" height="50" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=324474714&amp;format=interactive"></iframe></p>
 
 # **Total Cases:**
 
