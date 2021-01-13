@@ -13,7 +13,7 @@ NW FL COVID Tracking Web Page</h1> <p align="middle"><iframe width="150" height=
 <iframe width="946" height="585" seamless frameborder="1" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=1988761237&format=interactive"></iframe>
 
 ### **Statewide Vaccinations:**
-<iframe width="946" height="585" seamless frameborder="1" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=656303970&format=image"></iframe>
+<iframe width="633" height="392" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=656303970&amp;format=interactive"></iframe>
 
 
 ### **Cases by Age Group:**
