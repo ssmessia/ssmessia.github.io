@@ -53,5 +53,5 @@ NW FL COVID Tracking Web Page</h1> <p align="middle"><iframe width="150" height=
 <iframe width="946" height="585" seamless frameborder="1" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=851060810&amp;format=interactive"></iframe>
 
 <script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code";
+document.getElementById("text").innerHTML = "Loading complete";
 </script>
