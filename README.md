@@ -1,5 +1,5 @@
 <div id="loading">
-    Loading! Please calm down guy...
+    Page is loading, please wait...
 <div>
 
 <div align="center"><h1>
