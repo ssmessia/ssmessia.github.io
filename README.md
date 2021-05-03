@@ -52,5 +52,5 @@ NW FL COVID Tracking Web Page</h1> <p align="middle"><iframe width="150" height=
 
 
 function a() {
-document.getElementById("loading").innerHTML = "Loading complete";;
+document.getElementById("loading").innerHTML = "Loading complete";
 }
