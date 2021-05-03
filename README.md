@@ -1,4 +1,4 @@
-<div id="loading">
+<div id="loading" align="center">
     Page is loading, please wait...
 <div>
 
