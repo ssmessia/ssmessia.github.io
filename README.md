@@ -1,5 +1,5 @@
 <div id="loading">
-    Loading! Please calm down guy...
+    Page is loading and should complete within 30s...
 <div>
 
 
