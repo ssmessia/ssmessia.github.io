@@ -1,4 +1,4 @@
-<div id="loading" align="center">Page is loading, please wait...</div>
+<div id="loading">Page is loading, please wait...</div>
 
 <div align="center">
 <h1>NW FL COVID Tracking Web Page</h1>
@@ -55,6 +55,9 @@
 var count = 0;
 function a() {
 count++;
-document.getElementById("loading").innerHTML = "Loaded "+count+" of 17 interactive datasets...";
+if (count < 17){
+document.getElementById("loading").innerHTML = "Loaded "+count+" of 17 interactive datasets...";}
+else{
+document.getElementById("loading").innerHTML = "";                }
 }
 </script>
