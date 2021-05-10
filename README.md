@@ -55,6 +55,6 @@
 var count = 0;
 function a() {
 count++;
-document.getElementById("loading").innerHTML = "Loaded "+count+" of 17 datasets...";
+document.getElementById("loading").innerHTML = "Loaded "+count+" of 17 interactive datasets...";
 }
 </script>
