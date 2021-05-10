@@ -13,10 +13,10 @@
 <iframe width="946" height="585" seamless frameborder="1" scrolling="no"  onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=95280691&amp;format=interactive"></iframe>
 
 ### **Local Vaccinations:**
-<iframe width="946" height="585" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=1988761237&format=interactive"></iframe>
+<iframe width="946" height="585" seamless frameborder="0" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=1988761237&amp;format=interactive"></iframe>
 
 ### **Local Vaccination Percentage Predictions:**
-<iframe width="500" height="83" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=1065474682&format=interactive"></iframe>
+<iframe width="500" height="83" seamless frameborder="0" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=1065474682&amp;format=interactive"></iframe>
 
 ### **Statewide Vaccinations:**
 <iframe width="633" height="392" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=656303970&amp;format=interactive"></iframe>
