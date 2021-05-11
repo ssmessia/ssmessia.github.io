@@ -56,7 +56,7 @@ var count = 0;
 function a() {
 count++;
 if (count < 17){
-document.getElementById("loading").innerHTML = "Loaded "+count+" of 17 interactive datasets...";}
+document.getElementById("loading").innerHTML = "Loaded "+count+"/17 elements...";}
 else{
 document.getElementById("loading").innerHTML = "";                }
 }
