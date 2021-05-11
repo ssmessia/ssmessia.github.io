@@ -1,4 +1,4 @@
-<div id="loading">Page is loading, please wait...</div>
+<div id="loading" style="white-space:pre">Page is loading, please wait...</div>
 
 <div align="center">
 <h1>NW FL COVID Tracking Web Page</h1>
