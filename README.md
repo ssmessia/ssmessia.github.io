@@ -19,7 +19,7 @@
 <iframe width="500" height="83" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=1065474682&amp;format=image"></iframe>
 
 ### **Statewide Vaccinations:**
-<iframe width="633" height="392" seamless frameborder="0" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=1511689238&amp;format=interactive"></iframe>
+<iframe width="633" height="392" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=1511689238&amp;format=interactive"></iframe>
 
 ### **Cases by Age Group:**
 
