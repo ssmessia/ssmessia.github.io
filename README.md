@@ -53,10 +53,12 @@
 
 <script>
 var count = 0;
+var progress = "[                 ]"
 function a() {
 count++;
+progress[count] = '-';
 if (count < 17){
-document.getElementById("loading").innerHTML = "Loaded "+count+"/17 elements...";}
+document.getElementById("loading").innerHTML = "Loaded "+count+"/17 elements...\n"+progress;}
 else{
 document.getElementById("loading").innerHTML = "";                }
 }
