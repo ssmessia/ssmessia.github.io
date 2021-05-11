@@ -53,7 +53,7 @@
 
 <script>
 var count = 0;
-var progress = "[                 ]";
+var progress = "[_________________]";
 function a() {
 count++;
 progress = progress.substring(0, count) + '-' + progress.substring(count+1);
