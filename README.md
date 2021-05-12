@@ -56,7 +56,7 @@ var count = 0;
 var progress = "[_________________]";
 function a() {
 count++;
-progress = progress.substring(0, count) + '-' + progress.substring(count+1);
+progress = progress.substring(0, count) + '#' + progress.substring(count+1);
 if (count < 17){
 document.getElementById("loading").innerHTML = "Loaded "+count+"/17 elements...\n"+progress;}
 else{
