@@ -2,21 +2,21 @@
 
 <div align="center">
 <h1>NW FL COVID Tracking Web Page</h1>
- <p align="middle"><iframe width="150" height="50" seamless frameborder="0" scrolling="no" loading="eager" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=324474714&amp;format=image"></iframe>
- <iframe width="174" height="50" seamless frameborder="0" scrolling="no" loading="eager" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=23129702&amp;format=image"></iframe></p>
+ <p align="middle"><iframe width="150" height="50" seamless frameborder="0" scrolling="no" loading="eager" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=324474714&amp;format=interactive"></iframe>
+ <iframe width="174" height="50" seamless frameborder="0" scrolling="no" loading="eager" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=23129702&amp;format=interactive"></iframe></p>
 </div>
 
 ### **Total Cases:**
 
 <iframe width="946" height="585" seamless frameborder="1" scrolling="no" loading="eager" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=456296436&amp;format=interactive"></iframe>
 
-<iframe width="946" height="585" seamless frameborder="1" scrolling="no" loading="eager" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=95280691&amp;format=interactive"></iframe>
+<iframe width="946" height="585" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=95280691&amp;format=interactive"></iframe>
 
 ### **Local Vaccinations:**
-<iframe width="946" height="585" seamless frameborder="1" scrolling="no" loading="eager" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=1988761237&amp;format=interactive"></iframe>
+<iframe width="946" height="585" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=1988761237&amp;format=interactive"></iframe>
 
 ### **Local Vaccination Percentage Predictions:**
-<iframe width="500" height="83" seamless frameborder="1" scrolling="no" loading="eager" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=1065474682&amp;format=image"></iframe>
+<iframe width="500" height="83" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=1065474682&amp;format=interactive"></iframe>
 
 ### **Statewide Vaccinations:**
 <iframe width="633" height="392" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQwUDLD65Gxhou6i_0ErX1x4upiQ79Fpd6RLmhMHWVAsNLcNTyaxQH42L4tG6YfJha6lmuCF-9KZgP/pubchart?oid=1511689238&amp;format=interactive"></iframe>
