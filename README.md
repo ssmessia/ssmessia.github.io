@@ -2,7 +2,8 @@
 
 <div align="center">
 <h1>NW FL COVID Tracking Web Page</h1>
-<h3>On 4 June, 2021 FL DOH announced it would no longer be providing the case line data this page is based on. Expect no further updates</h3>
+<h3>On 4 June, 2021 FL DOH announced it would no longer provide the case line data this page uses</h3>
+<h3>Expect no further updates.</h3>
  <p align="middle"><iframe width="150" height="50" seamless frameborder="0" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=324474714&amp;format=image"></iframe>
  <iframe width="174" height="50" seamless frameborder="0" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=23129702&amp;format=image"></iframe></p>
 </div>
