@@ -2,8 +2,8 @@
 
 <div align="center">
 <h1>NW FL COVID Tracking Web Page</h1>
-<h3>On 4 June, 2021 FL DOH announced it would no longer provide the case line data this page uses.</h3>
-<h3>Expect no further updates.</h3>
+<h3>On 4 June, 2021 FL DOH announced it would no longer provide the detailed case line data this page uses.</h3>
+<h3>Data for some charts is now updated weekly each Friday, others are no longer updated.</h3>
  <p align="middle"><iframe width="150" height="50" seamless frameborder="0" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=324474714&amp;format=image"></iframe>
  <iframe width="174" height="50" seamless frameborder="0" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=23129702&amp;format=image"></iframe></p>
 </div>
@@ -17,18 +17,6 @@
 ### **Local Vaccinations:**
 <iframe width="946" height="585" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=1988761237&amp;format=interactive"></iframe>
 
-### **Local Vaccination Percentage Predictions:**
-<iframe width="500" height="83" seamless frameborder="0" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=1065474682&amp;format=image"></iframe>
-
-### **Statewide Vaccinations:**
-<iframe width="633" height="392" seamless frameborder="0" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=1511689238&amp;format=interactive"></iframe>
-
-### **Cases by Age Group:**
-
-<iframe width="946" height="585" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=618037707&ampformat=interactive"></iframe>
-
-<iframe width="946" height="585" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=511755751&amp;format=interactive"></iframe>
-
 ### **Cases by County:**
 
 <iframe width="946" height="585" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=553816169&amp;format=interactive"></iframe>
@@ -36,6 +24,14 @@
 <iframe width="946" height="585" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=220752108&amp;format=interactive"></iframe>
 
 <iframe width="946" height="585" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=258496410&amp;format=interactive"></iframe>
+
+##  **NO LONGER UPDATED:**
+
+### **Cases by Age Group:**
+
+<iframe width="946" height="585" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=618037707&ampformat=interactive"></iframe>
+
+<iframe width="946" height="585" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=511755751&amp;format=interactive"></iframe>
 
 ### **School Age Cases:**
 
@@ -52,6 +48,13 @@
 ### **Deaths:**
 
 <iframe width="946" height="585" seamless frameborder="1" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=851060810&amp;format=interactive"></iframe>
+
+### **Statewide Vaccinations:**
+<iframe width="633" height="392" seamless frameborder="0" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=1511689238&amp;format=interactive"></iframe>
+
+### **Local Vaccination Percentage Predictions:**
+<iframe width="500" height="83" seamless frameborder="0" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=1065474682&amp;format=image"></iframe>
+
 
 <script>
 var count = 0;
