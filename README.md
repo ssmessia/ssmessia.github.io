@@ -1,7 +1,7 @@
 <div id="loading" style="white-space:pre">Page is loading, please wait...</div>
 
 <div align="center">
-<h1>NW FL COVID Tracking Web Page</h1>
+<h1>NW FL COVID-19 Tracking Dashboard</h1>
 <h3>On 4 June, 2021 FL DOH announced it would no longer provide the detailed case line data this page uses.</h3>
 <h3>Data for some charts is now updated weekly each Friday, others are no longer updated.</h3>
  <p align="middle"><iframe width="150" height="50" seamless frameborder="0" scrolling="no" onload="a()" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmtPwWJwd_1_p2keb_qJdY_xXmSdORjJ2jp8mxDw8jp9ctEfrE7uT_7PNUbtGfiFefuvzgXQi8jGjP/pubchart?oid=324474714&amp;format=image"></iframe>
